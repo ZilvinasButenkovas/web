@@ -1,0 +1,15 @@
+.button {
+    padding: 10px 20px;
+    background-color: #ff6a3e;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    /* property name | duration | easing function */
+    transition: background-color 1s ease;
+    /* arba */
+    /* transition: 0.3s */
+}
+
+.button:hover {
+    background-color: #ffba43;
+} 

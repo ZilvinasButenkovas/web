@@ -1,0 +1,11 @@
+h1 {
+    color: brown;
+}
+.header {
+    border: solid black 2px;
+    margin: 5px;
+    padding: 20px;
+    background-color: blanchedalmond;
+    font-family: 'Times New Roman', Times, serif;
+    
+}

@@ -1,0 +1,20 @@
+* {
+margin: 0;
+padding: 0;
+}
+.header {
+    margin: 20px;
+    
+}
+#section1 {
+    height: 100vh;
+    background-color: blue;
+}
+#section2 {
+    height: 100vh;
+    background-color: rgb(255, 0, 0);
+}
+#section3 {
+    height: 100vh;
+    background-color: rgb(143, 192, 147);
+}

@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.header1 {
+    margin: 10px;
+}
+.firstform {
+margin: 10px;
+}
+.secondform {
+   margin-top: 50px;
+   margin-bottom: 10px;
+}
+div {
+    padding: 2px;
+}
